@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Yellowtail', cursive;
+}
+.navbar {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  * {
+    font-family: 'Amiri', serif;
+  }
+a:link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+a {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+a:visited {
+    color: white;
+    }
+body {
+    background-color: #C5D4DE;
+    }
+p {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.frontphoto2 {
+    display: flex;
+    justify-content: center;
+}
+#druiid, #graphyte{
+    text-align: center;
+    display: inline-block;
+    width: 1450px;
+}
